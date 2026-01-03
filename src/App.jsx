@@ -257,16 +257,19 @@ useEffect(() => {
 
             {/* HEADER ACTIONS */}
             <div className="flex items-center gap-6">
-              <a href="/Bhargav_Koushal_Resume.pdf" download
-                className={`hidden md:flex items-center gap-2 px-4 py-2 rounded-full border text-sm transition ${
-                  dark
-                    ? "text-white border-white/20 hover:bg-white hover:text-black"
-                    : "text-black border-black/20 hover:bg-black hover:text-white"
-                }`}
-              >
-                <Download size={16} />
-                <span>Resume</span>
-              </a>
+             <a
+  href={`${import.meta.env.BASE_URL}Bhargav_Koushal_Resume.pdf`}
+  download
+  className={`flex items-center gap-2 px-4 py-2 rounded-full border text-sm transition
+    ${dark
+      ? "text-white border-white/20 hover:bg-white hover:text-black"
+      : "text-black border-black/20 hover:bg-black hover:text-white"
+    }`}
+>
+  <Download size={16} />
+  <span>Resume</span>
+</a>
+
 
               <a
                 href="https://github.com/bhar7av"
