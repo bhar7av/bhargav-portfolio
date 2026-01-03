@@ -3,7 +3,7 @@
 🚀 Personal portfolio website of **Bhargav Koushal**, a B.Tech Information Technology student at **National Institute of Technology Srinagar**, showcasing projects, skills, education, achievements, and professional journey in **Machine Learning, Software Development, and Web Technologies**.
 
 🔗 **Live Website:**  
-👉 https://your-vercel-site.vercel.app
+👉https://bhargav-portfolio-bice.vercel.app/
 
 ---
 
