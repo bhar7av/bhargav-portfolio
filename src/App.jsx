@@ -56,9 +56,9 @@ const fadeOnly = {
 };
 
 const hoverCard =
-  "transition-all duration-300 hover:-translate-y-2 hover:shadow-[0_25px_60px_-15px_rgba(0,0,0,0.45)]";
+  "transition-all duration-300 hover:-translate-y-2 hover:shadow-[0_25px_80px_-15px_rgba(0,0,0,0.45)]";
 
-  const nameWords = ["Bhargav", "Koushal"];
+  const nameWords = ["BHARGAV", "KOUSHAL"];
 
 const nameContainer = {
   hidden: {},
