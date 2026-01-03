@@ -90,13 +90,6 @@ Teaching & Mentorship
 
 Contact Section
 
-📸 Preview
-
-A clean, modern, animated portfolio designed to highlight both technical skills and personality.
-
-(You can add screenshots later like this)
-
-![Portfolio Preview](./screenshots/preview.png)
 
 📄 Resume
 
