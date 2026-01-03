@@ -1,133 +1,88 @@
-🌐 Bhargav Koushal — Portfolio Website
+# 🌐 Bhargav Koushal — Portfolio Website
 
-🚀 Personal portfolio website of Bhargav Koushal, a B.Tech Information Technology student at NIT Srinagar, showcasing projects, skills, education, achievements, and professional journey in Machine Learning, Software Development, and Web Technologies.
+🚀 Personal portfolio website of **Bhargav Koushal**, a B.Tech Information Technology student at **National Institute of Technology Srinagar**, showcasing projects, skills, education, achievements, and professional journey in **Machine Learning, Software Development, and Web Technologies**.
 
-🔗 Live Website:
+🔗 **Live Website:**  
 👉 https://your-vercel-site.vercel.app
- (replace with your actual link)
 
-👋 About Me
+---
 
-I’m Bhargav Koushal, an enthusiastic Information Technology undergraduate at National Institute of Technology Srinagar.
-I enjoy solving real-world problems using:
+## 👋 About Me
 
-Machine Learning & Data Science
+I’m **Bhargav Koushal**, an Information Technology undergraduate at **NIT Srinagar**.  
+I enjoy solving real-world problems using **Machine Learning**, building **scalable software systems**, and designing **clean, user-focused experiences**.
 
-Strong software fundamentals
+This portfolio represents my technical skills, academic background, and passion for continuous learning.
 
-Clean, scalable, and user-focused design
+---
 
-This portfolio represents who I am, what I build, and how I think as an engineer.
+## ✨ Features
 
-✨ Features
+- Fully responsive (mobile, tablet, desktop)
+- Modern UI with glassmorphism & blur effects
+- Light & Dark theme support
+- Smooth animations using Framer Motion
+- Interactive hover effects
+- Resume download button
+- SEO-friendly structure
+- Deployed on Vercel
 
-✔️ Fully responsive (mobile, tablet, desktop)
-✔️ Modern UI with glassmorphism & blur effects
-✔️ Light & Dark theme support
-✔️ Smooth animations using Framer Motion
-✔️ Interactive hover effects
-✔️ Resume download support
-✔️ SEO-friendly structure
-✔️ Deployed on Vercel
+---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-Frontend
+**Frontend**
+- React (Vite)
+- Tailwind CSS
+- Framer Motion
 
-React (Vite)
+**Icons & UI**
+- Lucide React Icons
+- Glassmorphism design patterns
 
-Tailwind CSS
+**Deployment**
+- Vercel
+- GitHub
 
-Framer Motion
+---
 
-Icons & UI
+## 📂 Sections Included
 
-Lucide React Icons
+- Hero Section (animated introduction)
+- About Me
+- Skills & Expertise
+- Projects
+  - Multi-Step Time Series Forecasting (Machine Learning)
+  - SpaceX Landing Page Clone
+- Education
+  - B.Tech (Information Technology) — NIT Srinagar
+  - Senior Secondary (Class XII)
+  - Secondary (Class X)
+- Experience
+  - C++ Internship — Game Development
+- Achievements
+  - JK-CET Rank Holder
+  - NDA Qualified & Appeared for SSB (C/O)
+- Leadership & Responsibility
+- Teaching & Mentorship
+- Contact Section
 
-Glassmorphism design patterns
+---
 
-Deployment
+## 📄 Resume
 
-Vercel
+The resume can be downloaded directly from the portfolio website using the **Resume** button.
 
-GitHub
+---
 
-📂 Sections Included
-
-Hero Section (Intro + animated headline)
-
-About Me
-
-Skills & Expertise
-
-Projects
-
-Multi-Step Time Series Forecasting (ML)
-
-SpaceX Landing Page Clone
-
-Education
-
-B.Tech (IT) — NIT Srinagar
-
-Senior Secondary (Class XII)
-
-Secondary (Class X)
-
-Experience
-
-C++ Internship — Game Development
-
-Achievements
-
-JK-CET Rank Holder
-
-NDA Qualified & Appeared for SSB (C/O)
-
-Leadership & Responsibility
-
-Teaching & Mentorship
-
-Contact Section
-
-
-📄 Resume
-
-📥 Resume can be downloaded directly from the website.
-
-🚀 Getting Started Locally
+## 🚀 Run Locally
 
 Clone the repository:
 
+```bash
 git clone https://github.com/bhar7av/portfolio.git
 cd portfolio
 
-
-Install dependencies:
-
-npm install
-
-
-Run locally:
-
-npm run dev
-
-
-Open in browser:
-
-http://localhost:5173
-
-🌍 Deployment
-
-This project is deployed on Vercel.
-
-To deploy your own version:
-
-Push code to GitHub
-
-Connect repository to Vercel
-
-Done 🚀
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
