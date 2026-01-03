@@ -257,9 +257,7 @@ useEffect(() => {
 
             {/* HEADER ACTIONS */}
             <div className="flex items-center gap-6">
-              <a
-                href={`${import.meta.env.BASE_URL}Bhargav_Koushal_Resume.pdf`}
-                download
+              <a href="/Bhargav_Koushal_Resume.pdf" download
                 className={`hidden md:flex items-center gap-2 px-4 py-2 rounded-full border text-sm transition ${
                   dark
                     ? "text-white border-white/20 hover:bg-white hover:text-black"
@@ -357,9 +355,7 @@ useEffect(() => {
               : "border border-black/20 shadow-[0_0_40px_rgba(0,0,0,0.25)]"
           }`}
       >
-        <img
-          src="/profile.jpg"
-          alt="Bhargav"
+        <img src="/profile.jpg" alt="Bhargav" 
           className="w-full h-full object-cover transition-transform duration-500 hover:scale-105"
         />
       </div>
